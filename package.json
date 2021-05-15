@@ -1,0 +1,62 @@
+{
+  "devDependencies": {
+    "playwright": "^1.11.0"
+  },
+  "name": "ejercicio",
+  "version": "1.0.0",
+  "description": "automatizacion",
+  "main": "index.js",
+  "dependencies": {
+    "concat-map": "^0.0.1",
+    "brace-expansion": "^1.1.11",
+    "agent-base": "^6.0.2",
+    "buffer-crc32": "^0.2.13",
+    "balanced-match": "^1.0.2",
+    "debug": "^4.3.1",
+    "end-of-stream": "^1.4.4",
+    "commander": "^6.2.1",
+    "escape-string-regexp": "^2.0.0",
+    "extract-zip": "^2.0.1",
+    "glob": "^7.1.7",
+    "fd-slicer": "^1.1.0",
+    "get-stream": "^5.2.0",
+    "https-proxy-agent": "^5.0.0",
+    "graceful-fs": "^4.2.6",
+    "fs.realpath": "^1.0.0",
+    "inherits": "^2.0.4",
+    "inflight": "^1.0.6",
+    "jpeg-js": "^0.4.3",
+    "ms": "^2.1.2",
+    "minimatch": "^3.0.4",
+    "mime": "^2.5.2",
+    "once": "^1.4.0",
+    "path-is-absolute": "^1.0.1",
+    "pend": "^1.2.0",
+    "pngjs": "^5.0.0",
+    "proper-lockfile": "^4.1.2",
+    "progress": "^2.0.3",
+    "pump": "^3.0.0",
+    "retry": "^0.12.0",
+    "proxy-from-env": "^1.1.0",
+    "signal-exit": "^3.0.3",
+    "stack-utils": "^2.0.3",
+    "wrappy": "^1.0.2",
+    "ws": "^7.4.5",
+    "yauzl": "^2.10.0",
+    "rimraf": "^3.0.2",
+    "yazl": "^2.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ishidalgo/EjercicioTecnico.git"
+  },
+  "author": "Isabel\u001b[D\u001b[D\u001b[D\u001b[D\u001b[i\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ishidalgo/EjercicioTecnico/issues"
+  },
+  "homepage": "https://github.com/Ishidalgo/EjercicioTecnico#readme"
+}
